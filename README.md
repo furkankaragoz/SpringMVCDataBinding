@@ -1,14 +1,6 @@
 # SpringMVCDataBinding
  SpringMVCDataBindingAndHibernateValidationExample
  
- 
- 
- 
- 
- 
- 
- SpringMVCDataBindingAndHibernateValidationExample
- 
  1-)Make sure mvc, hibernate and spring lib files are in our project<br>
  2-)We have an entity called Subscriber.<br>
  3-)Hibernate Validation : We do the validation we want by writing the relevant annotations on the fields in the entity.<br>
